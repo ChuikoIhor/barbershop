@@ -203,10 +203,6 @@ header {
   letter-spacing: 0.05em;
   color: #303030;
 }
-.barders-link:hover,
-.barders-link:focus {
-  color: var(--accent-color);
-}
 .portfolio-text {
   font-weight: 600;
   font-size: 11px;
